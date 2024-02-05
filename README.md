@@ -1,6 +1,5 @@
-👋 Hi, I’m zetkaprodd.
-
+👋 Hi, I’m zetkaprodd, a french student.
 - 👀 I’m interested in computer science.
-- 🌱 I’m currently learning how to trade crypto.
-- 📫 How to reach me Email : elibayart05@gmail.com
-- 😄 Pronouns: He/Him.
+- 🌱 I’m currently learning the languauge C.
+- 📫 Email : elibayart05@gmail.com
+- 🏳️ Languages : French and English.
