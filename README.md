@@ -7,6 +7,7 @@ Hi, I’m zetkaprodd, a french student.
 - 💬 I can speak french and english.
 
 **My skills**
+
 Operating systems
 - ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 - ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
