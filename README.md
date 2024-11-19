@@ -1,4 +1,4 @@
-##  Hi, I’m zetkaprodd, a french student. 
+##  Hello, I’m zetkaprodd. 
 
 <br>
 
