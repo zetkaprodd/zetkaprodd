@@ -41,7 +41,7 @@
 ![GitLab](https://img.shields.io/badge/GitLab-fc6d26?style=flat&logo=GitLab&logoColor=white)
 ![Oracle VM Virtual Box](https://img.shields.io/badge/Oracle%20VM%20Virtual%20Box-C3C7D3?style=flat&logo=oracle&logoColor=white)
 
-#### Learning Technology
+#### Currently learning
 ![React](https://img.shields.io/badge/React-333?style=flat&logo=React&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-b7410e?style=flat&logo=Rust&logoColor=white)
 
