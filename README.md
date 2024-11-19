@@ -2,9 +2,9 @@
 
 <br>
 
-- 🌍 I'm based in Limoges.
-- 🎓 I'm currently studying at the University Institute of Technology of Limoges (Bachelor computer science).
-- 💬 I can speak french and english.
+- `🌍` I'm based in **Limoges**.
+- `🎓` I'm currently studying at the **University Institute of Technology of Limoges** (Bachelor computer science).
+- `💬` I can speak **french** and **english**.
 
 <br>
 
@@ -44,6 +44,13 @@
 #### Learning Technology
 ![React](https://img.shields.io/badge/React-333?style=flat&logo=React&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-b7410e?style=flat&logo=Rust&logoColor=white)
+
+<br>
+
+##  Activity and Stats
+<img src="https://github-readme-stats.vercel.app/api?username=zetkaprodd&show_icons=true&theme=dark&line_height=20"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zetkaprodd&layout=compact&theme=dark">
+
+<br>
 
 ##  Contact me
 - ![Mail](https://img.shields.io/badge/Mail-0078D6?style=flat&logo=gmail&logoColor=white) elibayart05@gmail.com
