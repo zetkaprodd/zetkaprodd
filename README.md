@@ -54,4 +54,4 @@
 
 ##  Contact me
 - ![Mail](https://img.shields.io/badge/Mail-0078D6?style=flat&logo=gmail&logoColor=white) : _elibayart05@gmail.com_
-- ![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white) : _**@zetkaprod_**
+- ![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white) : _**@zetkaprod**_
