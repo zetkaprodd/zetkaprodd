@@ -3,7 +3,7 @@
 <br>
 
 - 🌍 I'm based in Limoges.
-- 🎓 I'm currently studying at the University of Limoges (Bachelor computer science).
+- 🎓 I'm currently studying at the University Institute of Technology of Limoges (Bachelor computer science).
 - 💬 I can speak french and english.
 
 <br>
