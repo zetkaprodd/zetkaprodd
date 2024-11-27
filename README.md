@@ -18,8 +18,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Html](https://img.shields.io/badge/Html-ff8000?style=flat&logo=html5&logoColor=white)
 ![Css](https://img.shields.io/badge/Css-032cfc?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=flat&logo=Javascript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-AEB2D5?style=flat&logo=PHP&logoColor=white)
 ![C](https://img.shields.io/badge/C-737b4c?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-a68523?style=flat&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&color=red&logoColor=white)
@@ -44,6 +42,8 @@
 #### Currently learning
 ![React](https://img.shields.io/badge/React-333?style=flat&logo=React&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-b7410e?style=flat&logo=Rust&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=flat&logo=Javascript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-AEB2D5?style=flat&logo=PHP&logoColor=white)
 
 <br>
 
