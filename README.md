@@ -1,4 +1,4 @@
-##  Hello, I’m zetkaprodd. 
+##  Hello, I’m Eliott Bayart. 
 
 <br>
 
@@ -22,11 +22,13 @@
 ![C++](https://img.shields.io/badge/C++-a68523?style=flat&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&color=red&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-AEB2D5?style=flat&logo=PHP&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 
 
 
 #### Database
 ![MySQL](https://img.shields.io/badge/MySQL-00758f?style=flat&logo=MySQL&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=SQL&logoColor=4479A1)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0064a5?style=flat&logo=PostgreSQL&logoColor=white)
 ![Azure Data Studio](https://img.shields.io/badge/Azure%20Data%20Studio-007FFF?style=flat&logo=/Azure%20Data%20Studio&logoColor=white)
 
@@ -44,6 +46,7 @@
 #### Currently learning
 ![React](https://img.shields.io/badge/React-333?style=flat&logo=React&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=flat&logo=Javascript&logoColor=white)
+![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
 
 <br>
 
@@ -55,3 +58,4 @@
 ##  Contact me
 - ![Mail](https://img.shields.io/badge/Mail-0078D6?style=flat&logo=gmail&logoColor=white) : _elibayart05@gmail.com_
 - ![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white) : _**@zetkaprod**_
+- ![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=YOUR_LINKEDIN_URL)
