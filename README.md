@@ -21,6 +21,8 @@
 ![C](https://img.shields.io/badge/C-737b4c?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-a68523?style=flat&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&color=red&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-AEB2D5?style=flat&logo=PHP&logoColor=white)
+
 
 
 #### Database
@@ -41,9 +43,7 @@
 
 #### Currently learning
 ![React](https://img.shields.io/badge/React-333?style=flat&logo=React&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-b7410e?style=flat&logo=Rust&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=flat&logo=Javascript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-AEB2D5?style=flat&logo=PHP&logoColor=white)
 
 <br>
 
