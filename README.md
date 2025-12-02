@@ -53,12 +53,6 @@
 
 <br>
 
-##  Activity and Stats
-<img src="https://githubreadmestatsfast.vercel.app/api?username=zetkaprodd&show_icons=true&theme=dark"> 
-<img src="https://githubreadmestatsfast.vercel.app/api/top-langs?username=zetkaprodd&layout=compact&theme=dark">
-
-<br>
-
 ##  Contact me
 - ![Mail](https://img.shields.io/badge/Mail-0078D6?style=flat&logo=gmail&logoColor=white) : _elibayart05@gmail.com_
 - ![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white) : _**@zetkaprod**_
