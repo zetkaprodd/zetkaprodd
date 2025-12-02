@@ -54,7 +54,8 @@
 <br>
 
 ##  Activity and Stats
-<img src="https://github-readme-stats.vercel.app/api?username=zetkaprodd&show_icons=true&theme=dark&line_height=20"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zetkaprodd&layout=compact&theme=dark">
+<img src="https://githubreadmestatsfast.vercel.app/api?username=zetkaprodd&show_icons=true&theme=dark"> 
+<img src="https://githubreadmestatsfast.vercel.app/api/top-langs?username=zetkaprodd&layout=compact&theme=dark">
 
 <br>
 
